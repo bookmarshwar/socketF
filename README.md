@@ -8,7 +8,7 @@
 - [关于版权](#版权说明)
 
 ### 信息
-  - Minecraft目标版本1.19.3,如果需要适应其他版本,请联系开发者
+  - Minecraft目标版本1.19.3,如果需要兼容其他版本,请联系开发者
   - socketfolk文件夹包含 java端的源码
   - socketfolk.py 则是实现对java端api的调用
   
